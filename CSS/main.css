@@ -1,0 +1,89 @@
+html {
+    scroll-behavior: smooth; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    color: #333;
+}
+header {
+    background-color: #ff5722;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
+header h1 {
+    margin: 0;
+    font-size: 3em;
+}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.mood-category {
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    transition: transform 0.3s ease-in-out;
+}
+.mood-category:hover {
+    transform: scale(1.05);
+}
+.mood-category img {
+    width: 100%;
+    border-radius: 10px;
+}
+.mood-category h2 {
+    font-size: 1.5em;
+    margin: 15px 0;
+}
+.song-list {
+    text-align: left;
+    margin-top: 20px;
+}
+.song-item {
+    margin-bottom: 15px;
+}
+.song-item h3 {
+    font-size: 1.2em;
+    margin: 5px 0;
+}
+.song-item p {
+    font-size: 0.9em;
+    color: #777;
+    margin: 0 0 10px 0;
+}
+.song-item audio {
+    width: 100%;
+}
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.mood-category button {
+    background-color: #ff5722;
+    border: none;
+    color: white;
+    padding: 10px 15px;
+    font-size: 1em;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.mood-category button:hover {
+    background-color: #e64a19;
+}
