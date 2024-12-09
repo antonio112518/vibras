@@ -17,19 +17,17 @@
     <p>dont just listen to music, feel and become part of the music!</p>
 </header>
 
-<div class="container">
+<main>
+ <div class="container">
     <!-- Love Mood -->
     <div class="mood-category" id="love">
         <img src="https://via.placeholder.com/300x200.png?text=Love+Mood" alt="Love Mood">
         <h2>Love</h2>
         <div class="song-list">
             <div class="song-item">
-                <h3>Song 1</h3>
-                <p>Artist 1</p>
-                <audio controls>
-                    <source src="path-to-love-song1.mp3" type="audio/mp3">
-                    Your browser does not support the audio element.
-                </audio>
+                <h3>The Essance</h3>
+                <p>Aurora</p>
+                <link href="https://www.youtube.com/watch?v=5bW7yWuQEWQ "
             </div>
             <div class="song-item">
                 <h3>Song 2</h3>
@@ -257,20 +255,12 @@
             </div>
         </div>
     </div>
-</div>
+ </div>
+</main>
 
 <footer>
-    <p>&copy; 2024 Mood Music. All rights reserved.</p>
+    <p>developer message</p>
 </footer>
-
-<script>
-    function playMusic(mood) {
-        const audioElement = document.querySelector(`#${mood} audio`);
-        if (audioElement) {
-            audioElement.play();
-        }
-    }
-</script>
 
 </body>
 </html>
