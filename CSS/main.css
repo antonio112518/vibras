@@ -91,6 +91,7 @@ footer {
 }
 
 .container{
+    background-image: url("images/caset.jpg");
     position: relative;
     text-align: center;
     color: white;
