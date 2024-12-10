@@ -10,6 +10,12 @@ body {
     color: #333;
 }
 
+header {
+    background-color: #ff5722;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+
 }
 header h1 {
     margin: 0;
@@ -98,11 +104,11 @@ footer {
 
 .lower-left{
     position: absolute;
-    top: 30px;
+    top: 50px;
     left: 20px;
 }
 
 .tittle-m{
     height: 400px;
-    width:2000px;
+    width:;
 }
