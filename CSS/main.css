@@ -10,7 +10,7 @@ body {
     color: #333;
 }
 header {
-    
+    background-color: #ff5722;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -86,4 +86,22 @@ footer {
 }
 .mood-category button:hover {
     background-color: #e64a19;
+}
+
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.top-left{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+
+.lower-left{
+    position: absolute;
+    top: 15px;
+    left: 20px;
 }
