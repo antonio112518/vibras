@@ -102,6 +102,11 @@ footer {
 
 .lower-left{
     position: absolute;
-    top: 15px;
+    top: 30px;
     left: 20px;
+}
+
+.tittle-m{
+    height: 50px;
+    width:auto;
 }
