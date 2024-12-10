@@ -107,6 +107,6 @@ footer {
 }
 
 .tittle-m{
-    height: 50px;
-    width:auto;
+    height: relative;
+    width:relative;
 }
