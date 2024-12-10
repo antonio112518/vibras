@@ -10,8 +10,11 @@ body {
     color: #333;
 }
 
-main {
-    background-image: url("image/.tittle-m.jpg")
+header {
+    background-color: #ff5722;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
 }
 
 header h1 {
