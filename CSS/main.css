@@ -90,26 +90,3 @@ footer {
     background-color: #e64a19;
 }
 
-.container{
-    background-image: url("images/caset.jpg");
-    position: relative;
-    text-align: center;
-    color: white;
-}
-
-.top-left{
-    position: absolute;
-    top: 10px;
-    left: 20px;
-}
-
-.lower-left{
-    position: absolute;
-    top: 50px;
-    left: 20px;
-}
-
-.song-list{
-    background-image: url("images/caset.jpg");
-}
-
