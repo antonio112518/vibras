@@ -11,12 +11,9 @@ body {
 }
 
 header {
-    background-color: #ff5722;
-    color: white;
-    padding: 20px 0;
-    text-align: center;
-
+    background-image: url("image/.tittle-m.jpg")
 }
+
 header h1 {
     margin: 0;
     font-size: 3em;
@@ -108,7 +105,3 @@ footer {
     left: 20px;
 }
 
-.tittle-m{
-    height: auto;
-    width:auto;
-}
