@@ -98,3 +98,12 @@ footer {
     background-color: aqua;
   }
   
+h6 {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+   margin-top: 50px;
+    width: 100%;
+    bottom: 0;
+}
