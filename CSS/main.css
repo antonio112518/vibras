@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #ff5722;
+    background-color: #ffbf69;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -101,4 +101,8 @@ footer {
 h6 {
     background-color: #333;
     color: white;
+}
+.text{
+    text-align: center;
+    background-color: #cbf3f0;
 }
