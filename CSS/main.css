@@ -44,6 +44,7 @@ header h1 {
 .mood-category img {
     width: 100%;
     border-radius: 10px;
+    color: azure;
 }
 .mood-category h2 {
     font-size: 1.5em;
@@ -105,6 +106,7 @@ h6 {
 }
 .text{
     text-align: center;
+    color: #ffffff;
     background-color: #b22222;
     font-family: gothic medium;
     margin-top: 35px;
