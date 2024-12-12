@@ -6,13 +6,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #ffffff;
+    background-color: #eae0c8;
     color: #333;
 }
 
 header {
-    background-color: #ffbf69;
-    color: white;
+    background-color: #eae0c8;
+    color: #b22222;
     padding: 20px 0;
     text-align: center;
 }
@@ -29,7 +29,7 @@ header h1 {
     padding: 20px;
 }
 .mood-category {
-    background-color: #ffb941;
+    background-color: #b22222;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 300px;
@@ -68,7 +68,7 @@ header h1 {
     width: 100%;
 }
 footer {
-    background-color: #333;
+    background-color: #b22222;
     color: white;
     text-align: center;
     padding: 20px;
@@ -77,7 +77,7 @@ footer {
     bottom: 0;
 }
 .mood-category button {
-    background-color: #ff5722;
+    background-color: #eae0c8;
     border: none;
     color: white;
     padding: 10px 15px;
@@ -95,7 +95,7 @@ footer {
     padding: 0.5rem;
     color: #777;
     border-radius: 15px;
-    background-color: aqua;
+    background-color: #eae0c8;
   }
   
 h6 {
