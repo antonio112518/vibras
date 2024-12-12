@@ -63,7 +63,7 @@ header h1 {
 }
 .song-item p {
     font-size: 0.9em;
-    color: #777;
+    color: #ffffff;
     margin: 0 0 10px 0;
 }
 .song-item audio {
@@ -95,7 +95,7 @@ footer {
 .btn {
     text-decoration: none;
     padding: 0.5rem;
-    color: #777;
+    color: #eae6e6;
     border-radius: 15px;
     background-color: #eae0c8;
   }
