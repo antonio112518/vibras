@@ -4,7 +4,7 @@ html {
 
 body {
     background-image: url("images/caset.jpg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-position: center;
     font-family: Arial, sans-serif;
     margin: 0;
