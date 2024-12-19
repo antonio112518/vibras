@@ -32,7 +32,7 @@ header h1 {
     padding: 20px;
 }
 .mood-category {
-    background-color: #ffffff;
+    background-color: #c0e6ba;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     width: 300px;
@@ -42,6 +42,7 @@ header h1 {
 }
 .mood-category:hover {
     transform: scale(1.05);
+    background-color: #4ca771;
 }
 .mood-category img {
     width: 100%;
