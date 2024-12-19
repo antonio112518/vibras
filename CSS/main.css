@@ -13,7 +13,7 @@ body {
 }
 
 header {
-    background-color: #eae0c8;
+    background-color: #ffffff;
     color: #b22222;
     padding: 20px 0;
     text-align: center;
@@ -110,7 +110,7 @@ h6 {
 .text{
     text-align: center;
     color: #ffffff;
-    background-color: #b22222;
+    background-color: #c0e6ba;
     font-family: gothic medium;
     margin-top: 35px;
     margin-left: 50px;
