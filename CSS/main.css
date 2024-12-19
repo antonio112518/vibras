@@ -3,9 +3,6 @@ html {
 }
 
 body {
-    background-image: url('images/caset.jpg');
-    background-repeat: repeat;
-    background-position: center;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
@@ -98,7 +95,7 @@ footer {
 .btn {
     text-decoration: none;
     padding: 0.5rem;
-    color: #013237;
+    color: #ffffff;
     border-radius: 15px;
     background-color: #013237;
   }
@@ -109,7 +106,7 @@ h6 {
 }
 .text{
     text-align: center;
-    color: #ffffff;
+    color: #013237;
     background-color: #c0e6ba;
     font-family: gothic medium;
     margin-top: 35px;
