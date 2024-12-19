@@ -80,7 +80,7 @@ footer {
 }
 .mood-category button {
     background-color: #013237;
-    border: none;
+    border: #333;
     color: white;
     padding: 10px 15px;
     font-size: 1em;
