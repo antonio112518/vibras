@@ -3,13 +3,12 @@ html {
 }
 
 body {
-    background-image: url("images/caset.jpg");
+    background-image: url('images/caset.jpg');
     background-repeat: repeat;
     background-position: center;
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #eae0c8;
     color: #333;
 }
 
